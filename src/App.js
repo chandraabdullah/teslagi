@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
        
         <p>
-        <h1>halo apa kabar</h1>
+        <h1>halo apa kabar !!</h1>
         </p>
        
       </header>
